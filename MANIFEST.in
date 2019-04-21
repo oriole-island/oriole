@@ -1,0 +1,3 @@
+include CHANGES LICENSE README.md
+recursive-include oriole/*
+global-exclude *.pyc
